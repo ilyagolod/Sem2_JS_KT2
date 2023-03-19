@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .kitten {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .kitten img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .kitten h2 {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .kitten p {
+    margin: 5px 0;
+  }
